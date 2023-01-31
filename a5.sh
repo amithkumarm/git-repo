@@ -1,0 +1,2 @@
+read filename
+column $filename

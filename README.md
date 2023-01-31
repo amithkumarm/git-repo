@@ -1,2 +1,0 @@
-# newrepo
-# git-repo
